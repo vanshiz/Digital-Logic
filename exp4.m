@@ -1,0 +1,1 @@
+% Design and simulation of 2-to-1, 4-to-1, and 8-to-1 multiplexers using Matlab
